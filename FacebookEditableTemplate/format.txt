@@ -1,0 +1,8 @@
+Format:
+index.php?name=FIRSTNAME%20LASTNAME&image=PROFILE_PICTURE_URL
+
+Example:
+index.php?name=Jacob%20Hilton&image=https://i.ibb.co/dGBSh0Y/profile-Picture.jpg
+
+
+
